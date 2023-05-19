@@ -29,7 +29,7 @@ a {
 header nav {
       display: flex;
       align-items: center;
-      justify-content: space-between;
+      justify-content: space-around;
 }
 
 header nav a {
@@ -40,7 +40,6 @@ nav ul li {
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 0.5rem;
       margin: 0 0.5rem;
 }
 
